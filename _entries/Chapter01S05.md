@@ -2,7 +2,6 @@
 sectionid: C01S05
 sectionclass: h2
 title: Dice
-number: 1500
 is-parent: no
 parent-id: Chapter01
 ---

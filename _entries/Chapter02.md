@@ -2,7 +2,6 @@
 sectionid: Chapter02
 sectionclass: h1
 title: Characters
-number: 2000
 is-parent: yes
 ---
 

@@ -2,7 +2,6 @@
 sectionid: C01S04
 sectionclass: h2
 title: Winning and Losing the Game
-number: 1400
 is-parent: no
 parent-id: Chapter01
 ---

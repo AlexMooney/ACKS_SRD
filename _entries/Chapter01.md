@@ -2,7 +2,6 @@
 sectionid: Chapter01
 sectionclass: h1
 title: Introduction
-number: 1000
 is-parent: yes
 ---
 

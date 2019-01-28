@@ -2,7 +2,6 @@
 sectionid: C01S03
 sectionclass: h2
 title: The Basics of The Game
-number: 1300
 is-parent: no
 parent-id: Chapter01
 ---

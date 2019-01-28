@@ -2,7 +2,6 @@
 sectionid: C01S06
 sectionclass: h2
 title: Rolling and Throwing the Dice
-number: 1600
 is-parent: no
 parent-id: Chapter01
 ---

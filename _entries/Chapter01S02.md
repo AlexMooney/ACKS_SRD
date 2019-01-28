@@ -2,7 +2,6 @@
 sectionid: C01S02
 sectionclass: h2
 title: How to Use This Book
-number: 1200
 is-parent: no
 ---
 

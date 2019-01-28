@@ -2,7 +2,6 @@
 sectionid: C01S01
 sectionclass: h2
 title: About the Game
-number: 1100
 is-parent: no
 parent-id: Chapter01
 ---
