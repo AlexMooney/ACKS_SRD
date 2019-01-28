@@ -66,14 +66,14 @@ h1, h2, h3, h4, h5, h6{
     text-transform: uppercase;
     font-weight: $bold;
     line-height: 1;
-    color: $green;
+    color: $red;
 }
 
 h1 {
     font-size: 3.1em;
     padding: 30px 0 0;
     text-align: right;
-    border-bottom: $green 9px solid;
+    border-bottom: $red 9px solid;
     width: 100%;
     line-height: 0.61;
     margin: 0 0 20px;
@@ -94,7 +94,7 @@ h2 {
     padding: 30px 0 0;
     width: 90%;
     text-align: center;
-    border-bottom: 5px solid $green;
+    border-bottom: 5px solid $red;
     margin: 0 auto 20px;
     line-height: 0.63;
 
@@ -115,7 +115,7 @@ h3{
     padding: 20px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 4px solid $green;
+    border-bottom: 4px solid $red;
     margin: 0 auto 20px;
     line-height: 0.65;
 
@@ -135,7 +135,7 @@ h4{
     padding: 18px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 3px solid $green;
+    border-bottom: 3px solid $red;
     margin: 0 auto 18px;
     line-height: 0.67;
 
@@ -156,7 +156,7 @@ h5{
     padding: 40px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 2px solid $green;
+    border-bottom: 2px solid $red;
     margin: 0 auto 15px;
     line-height: 0.68;
 
@@ -168,11 +168,11 @@ h5{
 
 a{
     transition: .3s all;
-    color: $green;
+    color: $red;
     text-decoration: none;
 
     .content &{
-        border-bottom: $darkgreen 1px solid;
+        border-bottom: $darkred 1px solid;
         padding: 0px 2px;
 
         &:hover{
@@ -181,7 +181,7 @@ a{
     }
 
     &:hover{
-        color: $darkgreen;
+        color: $darkred;
     }
 }
 
