@@ -58,7 +58,6 @@
                 border-bottom: 1px solid rgba($green, .2);
                 &:before {
                     content: counters(nested-counter, ".") " ";
-                    font-size: 0;
                 }
                 &:hover {
                     background: rgba($green, .1);
@@ -71,6 +70,10 @@
                 li {
                     a {
                         padding: 6px 40px;
+                        &:before {
+                            content: counters(nested-counter, ".") " ";
+                            font-size: 0;
+                        }
                     }
                     li {
                         a {
