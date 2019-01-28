@@ -464,5 +464,3 @@
 
 ### [Open Game License](OGL.md#open-game-license)
 
-* * *
-

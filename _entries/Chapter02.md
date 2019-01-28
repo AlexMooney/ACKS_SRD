@@ -1,9 +1,10 @@
-[Previous](Chapter01.md#chapter-1-introduction) [Top](Chapter00.md#table-of-contents) [Next](Chapter03.md#chapter-3-equipment)
-
-* * *
-
-
-# Chapter 2: Characters
+---
+sectionid: Chapter02
+sectionclass: h1
+title: Characters
+number: 2000
+is-parent: yes
+---
 
 
 ## Creating a Character
