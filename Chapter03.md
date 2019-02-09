@@ -87,9 +87,11 @@ Note that the values given are the number of each specific item, not the total n
 
 ### Commissioning Equipment
 
-If equipment the adventurers desire to purchase is not available, they may commission it to be created. The advantage of commissioning equipment is that more equipment can be commissioned than is available as inventory; treat the equipment as if it were one price category less expensive to calculate the volume available. The disadvantage of commissioning equipment is that it is not immediately available. Buildings and vehicles, which can be built by large groups, are constructed at a rate of 1 day per 500gp value. Animals take 1 day per 1gp value to find and train. Other equipment takes 1 day per 5gp value.
+If equipment the adventurers desire to purchase is not available, they may commission it to be created. The advantage of commissioning equipment is that ten times more equipment can be commissioned than is available as inventory. Where the number available is listed as a percentage chance, multiply the percentage by 10 and divide by 100%. The integer quotient is the number of units available, and the remainder (if any) is the percentage chance of one additional unit being available.
 
-*Example*: Marcus decides he'd like to commission a shipwright to build a war galley. Since Marcus is commissioning the war galley, the Judge checks for availability as if the war galley were one price category less expensive, putting it in the 1,001-10,00gp row. There is a 25% chance that a war galley could be commissioned in a Class III city this month. The Judge rolls a 17 on 1d100, so a shipwright is available. It will take 120 days for the war galley to be finished (60,000gp / 500gp per day).
+The disadvantage of commissioning equipment is that it is not immediately available. Buildings and vehicles, which can be built by large groups, are constructed at a rate of 1 day per 500gp value. Animals take 1 day per 1gp value to find and train. Other equipment takes 1 day per 5gp value. All commissioned equipment is worked on simultaneously.
+
+*Example*: Marcus decides he'd like to commission a shipwright to build a war galley. Since Marcus is commissioning the war galley, the Judge modifies the base availability of the item by a factor of ten before checking to see if one is available. As a war galley is over 10,001gp, there is a 20% chance that one could be commissioned in a Class III city this month. The Judge rolls a 17 on 1d100, so a shipwright is available. It will take 120 days for the war galley to be finished (60,000gp / 500gp per day).
 
 
 ## Weapons and Equipment
