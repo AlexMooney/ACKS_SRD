@@ -1,4 +1,7 @@
 title: ACKS SRD
 
-url: "https://AlexMooney.github.io"
-baseurl: "/ACKS_SRD"
+url: https://AlexMooney.github.io
+baseurl: /ACKS_SRD
+
+markdown: kramdown
+theme: minima
