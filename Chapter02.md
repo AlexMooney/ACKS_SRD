@@ -57,9 +57,10 @@ A character with an Intelligence penalty will only know his native language, and
 
 The languages available to characters include the demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge's discretion, player characters may also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting.
 
-**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to saving throws caused by spells or magic items. This would include, e.g., a save versus Blast against a fireball or a save versus Death from a finger of death, but not a save versus Petrification against a medusa's gaze.
+**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to all saving throws.
 
 **Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character's Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
+The bonus or penalty also applies to proficiency throws to perform acrobatics, open locks, pick pockets, find traps, remove traps, hide in shadows, move silently, or climb walls, but these bonuses do *not* apply to hijinks.
 
 **Constitution**: Constitution is a combination of general health and vitality. Apply the Constitution bonus or penalty to each Hit Die rolled by the character. Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
 
@@ -336,7 +337,7 @@ Thieves are trained combatants, although not as skilled as fighters. At first le
 
 A thief also has the ability to backstab. He must catch an opponent unaware of his presence, either by surprise or by moving silently and/or hiding in shadows to sneak up on his opponent. When backstabbing, the thief will receive an attack bonus of +4 and, if successful, deal additional damage for every four levels he has attained. A thief at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage.
 
-Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the [Thief Skills](Chapter02.md#thief-skills) table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the [Thief Skills](Chapter02.md#thief-skills) table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure.
+Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the [Thief Skills](Chapter02.md#thief-skills) table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20, modified by the thief's dexterity bonus, except when Hearing Noises. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the [Thief Skills](Chapter02.md#thief-skills) table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure.
 
 **Opening Locks**: With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
 
@@ -404,7 +405,7 @@ This pre-generated template represents a bold tomb raider. The template is ready
 
 #### Thief Skills
 
-| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
+| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise†
 | :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
 |     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
 |     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
@@ -422,6 +423,8 @@ This pre-generated template represents a bold tomb raider. The template is ready
 |    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
 
 *-1 penalty on the proficiency throw per each level the thief is lower than the victim.
+
+† Dexterity bonus does not modify Hear Noise
 
 
 ## Campaign Classes
