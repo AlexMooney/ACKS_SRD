@@ -321,7 +321,7 @@ The disadvantage of commissioning equipment is that it is not immediately availa
 
 ## Equipment Descriptions
 
-**Arbalest**: An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
+**Arbalest**: An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. After firing, an arbalest must be reloaded before it may be fired again. Reloading is an action in lieu of moving. Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
 
 **Axe, Battle**: This is a single- or double-bitted axe with a 24" to 48" haft, designed for battle and useable with one or two hands. Historical examples include the Scythian sagaris, Viking bearded and skeg axe, Celtic war axe, medieval battle axe, and Persian tabarzin.
 
@@ -375,7 +375,7 @@ The disadvantage of commissioning equipment is that it is not immediately availa
 
 **Cottage**: A cottage is a 20' high, 30' square wooden building with a thatched roof and earthen floor, suitable for a wealthy peasant family.
 
-**Crossbow**: A crossbow is a bow mounted cross-wise on a stock with a trigger. It fires squat projectiles called bolts. Crossbows are light enough to pull by hand or with a quick drawing lever and are much easier to use than bows. Historical examples are the Greek gastraphetes, Roman arcuballista, Chinese handheld crossbow, and medieval crossbow and cavalry cranequin.
+**Crossbow**: A crossbow is a bow mounted cross-wise on a stock with a trigger. It fires squat projectiles called bolts. Crossbows are light enough to pull by hand or with a quick drawing lever and are much easier to use than bows. After firing, a crossbow must be reloaded before it may be fired again. Reloading is an action in lieu of moving. Historical examples are the Greek gastraphetes, Roman arcuballista, Chinese handheld crossbow, and medieval crossbow and cavalry cranequin.
 
 **Crowbar**: A crowbar is 2' to 3' long and made of solid iron. This object can be used for forcing doors and other objects open.
 
