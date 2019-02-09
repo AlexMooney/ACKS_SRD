@@ -1,4 +1,4 @@
-[Previous](Chapter09.md#chapter-9-treasure) [Top](Chapter00.md#table-of-contents) [Next](OGL.md#open-game-license)
+[Previous](Chapter09.md#chapter-9-treasure) [Top](/ACKS_SRD) [Next](OGL.md#open-game-license)
 
 * * *
 
@@ -1374,5 +1374,5 @@ Williams, Tad. Memory, Sorrow, and Thorn.
 
 * * *
 
-[Previous](Chapter09.md#chapter-9-treasure) [Top](Chapter00.md#table-of-contents) [Next](OGL.md#open-game-license)
+[Previous](Chapter09.md#chapter-9-treasure) [Top](/ACKS_SRD) [Next](OGL.md#open-game-license)
 

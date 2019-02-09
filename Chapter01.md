@@ -1,4 +1,4 @@
-[Previous](Chapter00.md#table-of-contents) [Top](Chapter00.md#table-of-contents) [Next](Chapter02.md#chapter-2-characters)
+[Previous](/ACKS_SRD) [Top](/ACKS_SRD) [Next](Chapter02.md#chapter-2-characters)
 
 * * *
 
@@ -181,5 +181,5 @@ Below are some of the most common abbreviations that will be found in this book 
 
 * * *
 
-[Previous](Chapter00.md#table-of-contents) [Top](Chapter00.md#table-of-contents) [Next](Chapter02.md#chapter-2-characters)
+[Previous](/ACKS_SRD) [Top](/ACKS_SRD) [Next](Chapter02.md#chapter-2-characters)
 

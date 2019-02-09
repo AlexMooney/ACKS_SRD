@@ -1,4 +1,4 @@
-[Previous](Chapter08.md#chapter-8-monsters) [Top](Chapter00.md#table-of-contents) [Next](Chapter10.md#chapter-10-secrets)
+[Previous](Chapter08.md#chapter-8-monsters) [Top](/ACKS_SRD) [Next](Chapter10.md#chapter-10-secrets)
 
 * * *
 
@@ -1458,5 +1458,5 @@ The advantage to commissioning a magic item is that the item can be made exactly
 
 * * *
 
-[Previous](Chapter08.md#chapter-8-monsters) [Top](Chapter00.md#table-of-contents) [Next](Chapter10.md#chapter-10-secrets)
+[Previous](Chapter08.md#chapter-8-monsters) [Top](/ACKS_SRD) [Next](Chapter10.md#chapter-10-secrets)
 
