@@ -1,8 +1,3 @@
-[Previous](Chapter01.md#chapter-1-introduction) [Top](/ACKS_SRD) [Next](Chapter03.md#chapter-3-equipment)
-
-* * *
-
-
 # Chapter 2: Characters
 
 
@@ -991,8 +986,3 @@ The worlds of Adventurer Conqueror King are dangerous and hostile. For the sake 
 Occasionally, there are not enough party members to take on the challenges of an adventure. The party may hire NPCs, such as henchmen or mercenaries, for extra hands. The rules for hiring henchmen and mercenaries are discussed in [Chapter 3, Equipment](Chapter03.md#chapter-3-equipment).
 
 When there are only a small number of players, the Judge may allow them to each play more than one character. Nevertheless, in these cases characters belonging to the same player cannot offer each other special treatment, such as trading or giving away riches or magical items, unless the Judge rules it acceptable.
-
-* * *
-
-[Previous](Chapter01.md#chapter-1-introduction) [Top](/ACKS_SRD) [Next](Chapter03.md#chapter-3-equipment)
-

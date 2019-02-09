@@ -1,7 +1,3 @@
-[Previous](Chapter09.md#chapter-9-treasure) [Top](/ACKS_SRD) [Next](OGL.md#open-game-license)
-
-* * *
-
 # Chapter 10: Secrets
 
 
@@ -1371,8 +1367,3 @@ Tolkien, J.R.R. "The Lord of the Rings" series; The Silmarillion; The Children o
 Vance, Jack. "Dying Earth" stories.
 
 Williams, Tad. Memory, Sorrow, and Thorn.
-
-* * *
-
-[Previous](Chapter09.md#chapter-9-treasure) [Top](/ACKS_SRD) [Next](OGL.md#open-game-license)
-

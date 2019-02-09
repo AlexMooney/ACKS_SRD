@@ -1,8 +1,3 @@
-[Previous](Chapter08.md#chapter-8-monsters) [Top](/ACKS_SRD) [Next](Chapter10.md#chapter-10-secrets)
-
-* * *
-
-
 # Chapter 9: Treasure
 
 
@@ -1455,8 +1450,3 @@ On occasion, adventurers may commission powerful spellcasters to create magic it
 The advantage to commissioning a magic item is that the item can be made exactly to the adventurer's specification. The disadvantages are cost and time. The base cost and time required to create a magic item is listed on the [Magic Item Creation](Chapter07.md#magic-item-creation) table in Chapter 7 under [Magic Research](Chapter07.md#magic-research). The adventurer commissioning the item will be responsible up front for paying the base cost and the cost of any precious materials, and for providing any required special components. If the spellcaster successfully completes the item, the adventurer will then be charged an additional fee equal to 7,000gp per month, or twice the base cost, whichever is greater.
 
 *Example*: Marcus hires a mage to create a suit of plate armor +3 (base cost 35,000gp, base time 8 months). After describing the elaborate appearance he demands, Marcus pays 35,000gp. He also pays for 30,000gp worth of precious materials to be used in the items construction, to help ensure its successful creation (and to make it look spectacular). Finally, he delivers the special component, the iron hides of 25 gorgons, to the mage. When the mage completes the armor 8 months later, Marcus pays him an additional 70,000gp (twice the base cost). Marcus has spent 135,000gp on his armor, enough to build a keep.
-
-* * *
-
-[Previous](Chapter08.md#chapter-8-monsters) [Top](/ACKS_SRD) [Next](Chapter10.md#chapter-10-secrets)
-

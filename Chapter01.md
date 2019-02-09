@@ -1,8 +1,3 @@
-[Previous](/ACKS_SRD) [Top](/ACKS_SRD) [Next](Chapter02.md#chapter-2-characters)
-
-* * *
-
-
 # Chapter 1: Introduction
 
 It is an age when empires totter on the brink of war, and terrible monsters tear at the fragile borderlands of men; when decaying cities teem with chaos and corruption, where nubile maidens are sacrificed to chthonic cults and nobles live in decadent pleasure on the toil of slaves; when heroes, wizards, and rogues risk everything in pursuit of glory, fortune, and power. These are days when adventurers can become conquerors... and conquerors can become kings!
@@ -178,8 +173,3 @@ Below are some of the most common abbreviations that will be found in this book 
 | gp           | Gold pieces
 | pp           | Platinum pieces
 | TT           | Treasure Type
-
-* * *
-
-[Previous](/ACKS_SRD) [Top](/ACKS_SRD) [Next](Chapter02.md#chapter-2-characters)
-

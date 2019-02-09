@@ -466,6 +466,3 @@ layout: default
 - [Recommended Reading for Judges](Chapter10.md#recommended-reading-for-judges)
 
 ### [Open Game License](OGL.md#open-game-license)
-
-* * *
-
