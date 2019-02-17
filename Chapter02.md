@@ -57,10 +57,10 @@ A character with an Intelligence penalty will only know his native language, and
 
 The languages available to characters include the demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge's discretion, player characters may also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting.
 
-**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to all saving throws.
+**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. {% include acks_2e.html content="The Wisdom bonus or penalty applies to all saving throws." %}
 
 **Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character's Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
-The bonus or penalty also applies to proficiency throws to perform acrobatics, open locks, pick pockets, find traps, remove traps, hide in shadows, move silently, or climb walls, but these bonuses do *not* apply to hijinks.
+{% include acks_2e.html content="The bonus or penalty also applies to proficiency throws to perform acrobatics, open locks, pick pockets, find traps, remove traps, hide in shadows, move silently, or climb walls, but these bonuses do *not* apply to hijinks." %}
 
 **Constitution**: Constitution is a combination of general health and vitality. Apply the Constitution bonus or penalty to each Hit Die rolled by the character. Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
 

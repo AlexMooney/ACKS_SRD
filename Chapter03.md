@@ -87,11 +87,11 @@ Note that the values given are the number of each specific item, not the total n
 
 ### Commissioning Equipment
 
-If equipment the adventurers desire to purchase is not available, they may commission it to be created. The advantage of commissioning equipment is that ten times more equipment can be commissioned than is available as inventory. Where the number available is listed as a percentage chance, multiply the percentage by 10 and divide by 100%. The integer quotient is the number of units available, and the remainder (if any) is the percentage chance of one additional unit being available.
+{% include acks_2e.html content="If equipment the adventurers desire to purchase is not available, they may commission it to be created. The advantage of commissioning equipment is that ten times more equipment can be commissioned than is available as inventory. Where the number available is listed as a percentage chance, multiply the percentage by 10 and divide by 100%. The integer quotient is the number of units available, and the remainder (if any) is the percentage chance of one additional unit being available." %}
 
-The disadvantage of commissioning equipment is that it is not immediately available. Buildings and vehicles, which can be built by large groups, are constructed at a rate of 1 day per 500gp value. Animals take 1 day per 1gp value to find and train. Other equipment takes 1 day per 5gp value. All commissioned equipment is worked on simultaneously.
+{% include acks_2e.html content="The disadvantage of commissioning equipment is that it is not immediately available. Buildings and vehicles, which can be built by large groups, are constructed at a rate of 1 day per 500gp value. Animals take 1 day per 1gp value to find and train. Other equipment takes 1 day per 5gp value. All commissioned equipment is worked on simultaneously." %}
 
-*Example*: Marcus decides he'd like to commission a shipwright to build a war galley. Since Marcus is commissioning the war galley, the Judge modifies the base availability of the item by a factor of ten before checking to see if one is available. As a war galley is over 10,001gp, there is a 20% chance that one could be commissioned in a Class III city this month. The Judge rolls a 17 on 1d100, so a shipwright is available. It will take 120 days for the war galley to be finished (60,000gp / 500gp per day).
+{% include acks_2e.html content="*Example*: Marcus decides he'd like to commission a shipwright to build a war galley. Since Marcus is commissioning the war galley, the Judge modifies the base availability of the item by a factor of ten before checking to see if one is available. As a war galley is over 10,001gp, there is a 20% chance that one could be commissioned in a Class III city this month. The Judge rolls a 17 on 1d100, so a shipwright is available. It will take 120 days for the war galley to be finished (60,000gp / 500gp per day)." %}
 
 
 ## Weapons and Equipment
@@ -321,7 +321,7 @@ The disadvantage of commissioning equipment is that it is not immediately availa
 
 ## Equipment Descriptions
 
-**Arbalest**: An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. After firing, an arbalest must be reloaded before it may be fired again. Reloading is an action in lieu of moving. Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
+**Arbalest**: An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. {% include acks_2e.html content="After firing, an arbalest must be reloaded before it may be fired again. Reloading is an action in lieu of moving." %} Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
 
 **Axe, Battle**: This is a single- or double-bitted axe with a 24" to 48" haft, designed for battle and useable with one or two hands. Historical examples include the Scythian sagaris, Viking bearded and skeg axe, Celtic war axe, medieval battle axe, and Persian tabarzin.
 
@@ -375,7 +375,7 @@ The disadvantage of commissioning equipment is that it is not immediately availa
 
 **Cottage**: A cottage is a 20' high, 30' square wooden building with a thatched roof and earthen floor, suitable for a wealthy peasant family.
 
-**Crossbow**: A crossbow is a bow mounted cross-wise on a stock with a trigger. It fires squat projectiles called bolts. Crossbows are light enough to pull by hand or with a quick drawing lever and are much easier to use than bows. After firing, a crossbow must be reloaded before it may be fired again. Reloading is an action in lieu of moving. Historical examples are the Greek gastraphetes, Roman arcuballista, Chinese handheld crossbow, and medieval crossbow and cavalry cranequin.
+**Crossbow**: A crossbow is a bow mounted cross-wise on a stock with a trigger. It fires squat projectiles called bolts. Crossbows are light enough to pull by hand or with a quick drawing lever and are much easier to use than bows. {% include acks_2e.html content="After firing, a crossbow must be reloaded before it may be fired again. Reloading is an action in lieu of moving." %} Historical examples are the Greek gastraphetes, Roman arcuballista, Chinese handheld crossbow, and medieval crossbow and cavalry cranequin.
 
 **Crowbar**: A crowbar is 2' to 3' long and made of solid iron. This object can be used for forcing doors and other objects open.
 
