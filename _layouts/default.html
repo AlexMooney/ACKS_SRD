@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <div class="wrapper">
+      <header class="header">{%- include header.html -%}</header>
+
+      <article class="main">
+        {{ content }}
+      </article>
+
+      <aside class="aside aside-1">{%- include nav.html -%}</aside>
+
+      <aside class="aside aside-2">
+      </aside>
+
+      <footer class="footer">{%- include footer.html -%}</footer>
+    </main>
+  </div>
+</html>

@@ -1,6 +1,4 @@
-<header class="site-header" role="banner">
-
-  <div class="wrapper">
+  <div>
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: [] -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -26,4 +24,3 @@
       </div>
     </nav>
   </div>
-</header>
