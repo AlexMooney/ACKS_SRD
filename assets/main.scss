@@ -141,7 +141,7 @@ table td { border: 1px solid #e8e8e8; }
 }
 
 /* Large screens */
-@media all and (min-width: 800px) {
+@media all and (min-width: 1145px) {
   /* We invert order of first sidebar and main
    * And tell the main element to take twice as much width as the other two sidebars 
    */
@@ -153,12 +153,13 @@ table td { border: 1px solid #e8e8e8; }
   .aside   { max-width: 12em; }
 }
 
-@media all and (min-width: 1000px) {
+@media all and (min-width: 1335px) {
   .aside { max-width: 24em; }
 }
 
 .main {
-  max-width: 60em;
+  max-width: 100%;
+  flex-grow: 1;
   margin-left: 10px;
   margin-right: 10px;
 }
